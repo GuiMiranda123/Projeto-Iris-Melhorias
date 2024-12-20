@@ -122,7 +122,7 @@ salvar_como_pdf(data, resultados)
 def upload_para_github():
     # Faz upload do relatório para o GitHub 
     repo_url = "https://github.com/GuiMiranda123/Projeto-Iris-Melhorias.git"
-    token = "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"  # Substitua pelo seu token de acesso pessoal
+    token = "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"
 
     # Configurações do Git
     !git init # Indentation corrected
